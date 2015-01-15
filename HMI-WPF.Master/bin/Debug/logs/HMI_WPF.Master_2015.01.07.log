@@ -1,0 +1,34 @@
+2015-01-07 09:21:52.0206|Debug|Logger was created successfully.
+2015-01-07 09:21:52.0675|Debug|Creating module catalog.
+2015-01-07 09:21:52.0831|Debug|Configuring module catalog.
+2015-01-07 09:21:52.0831|Debug|Creating catalog for MEF
+2015-01-07 09:21:52.0831|Debug|Configuring catalog for MEF
+2015-01-07 09:21:52.3175|Debug|Creating Mef container
+2015-01-07 09:21:52.3175|Debug|Configuring MEF container
+2015-01-07 09:21:52.3331|Debug|Configuring ServiceLocator singleton
+2015-01-07 09:21:52.3487|Debug|Configuring region adapters
+2015-01-07 09:21:52.3800|Debug|Configuring default region behaviors
+2015-01-07 09:21:52.3956|Debug|Registering Framework Exception Types
+2015-01-07 09:21:52.3956|Debug|Creating shell
+2015-01-07 09:21:52.4737|Debug|Setting the RegionManager.
+2015-01-07 09:21:52.4894|Debug|Updating Regions.
+2015-01-07 09:21:52.4894|Debug|Initializing shell
+2015-01-07 09:21:52.7237|Debug|Initializing modules
+2015-01-07 09:21:52.8019|Debug|Bootstrapper sequence completed
+2015-01-07 09:53:39.7220|Debug|Logger was created successfully.
+2015-01-07 09:53:39.7688|Debug|Creating module catalog.
+2015-01-07 09:53:39.7688|Debug|Configuring module catalog.
+2015-01-07 09:53:39.7845|Debug|Creating catalog for MEF
+2015-01-07 09:53:39.7845|Debug|Configuring catalog for MEF
+2015-01-07 09:53:40.0345|Debug|Creating Mef container
+2015-01-07 09:53:40.0501|Debug|Configuring MEF container
+2015-01-07 09:53:40.0657|Debug|Configuring ServiceLocator singleton
+2015-01-07 09:53:40.0813|Debug|Configuring region adapters
+2015-01-07 09:53:40.1126|Debug|Configuring default region behaviors
+2015-01-07 09:53:40.1282|Debug|Registering Framework Exception Types
+2015-01-07 09:53:40.1282|Debug|Creating shell
+2015-01-07 09:53:40.2220|Debug|Setting the RegionManager.
+2015-01-07 09:53:40.2376|Debug|Updating Regions.
+2015-01-07 09:53:40.2532|Debug|Initializing shell
+2015-01-07 09:53:40.4407|Debug|Initializing modules
+2015-01-07 09:53:40.5032|Debug|Bootstrapper sequence completed
