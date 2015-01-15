@@ -1,2 +1,2 @@
 # ModbusPanel
-ModbusPanel
+ModbusPanel  - WPF Modbus binding
