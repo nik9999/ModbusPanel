@@ -1,0 +1,17 @@
+2015-01-06 11:53:02.8704|Debug|Logger was created successfully.
+2015-01-06 11:53:03.0111|Debug|Creating module catalog.
+2015-01-06 11:53:03.0423|Debug|Configuring module catalog.
+2015-01-06 11:53:03.1048|Debug|Creating catalog for MEF
+2015-01-06 11:53:03.1204|Debug|Configuring catalog for MEF
+2015-01-06 11:53:03.3704|Debug|Creating Mef container
+2015-01-06 11:53:03.3704|Debug|Configuring MEF container
+2015-01-06 11:53:03.3861|Debug|Configuring ServiceLocator singleton
+2015-01-06 11:53:03.4173|Debug|Configuring region adapters
+2015-01-06 11:53:03.4486|Debug|Configuring default region behaviors
+2015-01-06 11:53:03.4642|Debug|Registering Framework Exception Types
+2015-01-06 11:53:03.4642|Debug|Creating shell
+2015-01-06 11:53:03.5579|Debug|Setting the RegionManager.
+2015-01-06 11:53:03.5736|Debug|Updating Regions.
+2015-01-06 11:53:03.5892|Debug|Initializing shell
+2015-01-06 11:53:03.8079|Debug|Initializing modules
+2015-01-06 11:53:03.8861|Debug|Bootstrapper sequence completed
